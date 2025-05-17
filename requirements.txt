@@ -4,4 +4,5 @@ aiohttp==3.9.1
 sqlalchemy==2.0.23
 pydantic==2.5.2
 pytest==7.4.3
-httpx==0.25.2 
+httpx==0.25.2
+python-dotenv==1.0.0 
